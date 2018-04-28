@@ -1,0 +1,6 @@
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\Restaurant\bonapetit\bin\Debug\bonapetit.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\Restaurant\bonapetit\bin\Debug\bonapetit.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\Restaurant\bonapetit\bin\Debug\bonapetit.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\Restaurant\bonapetit\obj\Debug\bonapetit.csprojResolveAssemblyReference.cache
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\Restaurant\bonapetit\obj\Debug\bonapetit.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\Restaurant\bonapetit\obj\Debug\bonapetit.pdb
